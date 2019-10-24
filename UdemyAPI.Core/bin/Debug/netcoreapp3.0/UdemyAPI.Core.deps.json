@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "UdemyAPI.Core/1.0.0": {
+        "runtime": {
+          "UdemyAPI.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UdemyAPI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+/Users/sajidMacPro/Projects/Practices/UdemyAPI.Core/bin/Debug/netcoreapp3.0/UdemyAPI.Core.deps.json
+/Users/sajidMacPro/Projects/Practices/UdemyAPI.Core/bin/Debug/netcoreapp3.0/UdemyAPI.Core.dll
+/Users/sajidMacPro/Projects/Practices/UdemyAPI.Core/bin/Debug/netcoreapp3.0/UdemyAPI.Core.pdb
+/Users/sajidMacPro/Projects/Practices/UdemyAPI.Core/obj/Debug/netcoreapp3.0/UdemyAPI.Core.csprojAssemblyReference.cache
+/Users/sajidMacPro/Projects/Practices/UdemyAPI.Core/obj/Debug/netcoreapp3.0/UdemyAPI.Core.AssemblyInfoInputs.cache
+/Users/sajidMacPro/Projects/Practices/UdemyAPI.Core/obj/Debug/netcoreapp3.0/UdemyAPI.Core.AssemblyInfo.cs
+/Users/sajidMacPro/Projects/Practices/UdemyAPI.Core/obj/Debug/netcoreapp3.0/UdemyAPI.Core.dll
+/Users/sajidMacPro/Projects/Practices/UdemyAPI.Core/obj/Debug/netcoreapp3.0/UdemyAPI.Core.pdb
